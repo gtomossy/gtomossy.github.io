@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /GH2026/$
+Allow: /GH2026/index.html
+Disallow: /
